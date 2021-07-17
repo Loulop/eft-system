@@ -12,3 +12,4 @@
 11. https://pay.weixin.qq.com/wechatpay_guide/help_docs.shtml
 12. https://www.moneymover.com/about/faqs/what-swift-gpi/#:~:text=SWIFT%20gpi%20(gpi%20stands%20for,a%20new%20set%20of%20rules.
 13. https://www.finextra.com/the-long-read/44/there-is-more-to-digital-payments-in-africa-than-m-pesa
+14. https://developer.swift.com/apis
