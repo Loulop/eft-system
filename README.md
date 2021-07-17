@@ -1,0 +1,14 @@
+## REFERENCES:
+1. https://docs.moderntreasury.com/
+2. https://docs.moderntreasury.com/docs/quickstart
+3. https://trimplement.com/
+4. https://trimplement.com/blog/2019/09/open-banking-psd2-delay-banks-suspended/#more-1478
+5. https://openbankinguk.github.io/read-write-api-site3/v3.1.8/profiles/account-and-transaction-api-profile.html
+6. https://openbankinguk.github.io/read-write-api-site3/v3.1.8/resources-and-data-models/aisp/Accounts.html
+7. https://stripe.com/docs/connect/account-balances
+8. https://standards.openbanking.org.uk/api-specifications/
+9. https://paystack.com/docs/payments
+10. https://paystack.com/docs/api/#introduction
+11. https://pay.weixin.qq.com/wechatpay_guide/help_docs.shtml
+12. https://www.moneymover.com/about/faqs/what-swift-gpi/#:~:text=SWIFT%20gpi%20(gpi%20stands%20for,a%20new%20set%20of%20rules.
+13. https://www.finextra.com/the-long-read/44/there-is-more-to-digital-payments-in-africa-than-m-pesa
