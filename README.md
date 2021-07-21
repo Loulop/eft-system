@@ -24,3 +24,17 @@
 23. https://howto.lintel.in/dial-ussd-code-ios/
 24. https://www.youtube.com/watch?v=l8JcQTQ1vzQ
 25. https://www.mukuru.com/
+26. https://mastercardfdn.org/work/next-gen-fin/
+27. https://www.ppro.com/payment-service-providers/
+28. https://www.cgap.org/blog/five-business-case-insights-mobile-money
+29. https://www.austriacard.com/
+30. http://www.bccard.com/card/html/company/en/business/service/service7/service07.jsp
+31. https://www.mada.com.sa/en/services#apple-pay
+32. https://www.cgap.org/blog/east-african-interoperability-dispatches-home-m-pesa
+33. https://www.cgap.org/blog/east-african-interoperability-dispatches-home-m-pesa
+34. https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2013/06/2013_MMU_Platforms-for-Successful-Mobile-Money-Services.pdf
+35. https://ewhallet.com/blog/post/e-wallet-laws-and-regulations-in-malaysia
+36. https://www.channelmobile.co.za/products/ussd
+37. https://africastalking.com/ussd
+38. https://www.ascm.org/ascm-insights/scm-now-impact/last-mile-delivery-apps-grow-african-economies-one-goat-at-a-time/
+39. http://www.a-r-e-d.com/
