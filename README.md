@@ -47,3 +47,6 @@
 46. https://squareup.com/us/en/townsquare/what-is-a-contactless-payment
 47. https://squareup.com/us/en/townsquare/emv
 48. https://labsnews.com/en/articles/business/nubank-brazil-largest-fintech-latin-america/
+49. https://www.openscdp.org/scripts/tutorial/emv/index.html
+50. https://www.thalesgroup.com/en/markets/digital-identity-and-security/banking-payment/cards/emv/about
+51. https://www.fsstech.com/back-office-services/eft-switching-service
