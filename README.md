@@ -38,3 +38,7 @@
 37. https://africastalking.com/ussd
 38. https://www.ascm.org/ascm-insights/scm-now-impact/last-mile-delivery-apps-grow-african-economies-one-goat-at-a-time/
 39. http://www.a-r-e-d.com/
+40. https://business.ebanx.com/en/resources/payments-explained/remittance
+41. https://labsnews.com/en/news/business/rappi-credit-card-colombia/
+42. https://begateway.com/how-to-start-a-payment-processing-company-1/
+43. https://www.federalreserve.gov/boarddocs/caletters/2008/0807/08-07_attachment.pdf
