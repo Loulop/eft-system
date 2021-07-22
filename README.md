@@ -50,3 +50,11 @@
 49. https://www.openscdp.org/scripts/tutorial/emv/index.html
 50. https://www.thalesgroup.com/en/markets/digital-identity-and-security/banking-payment/cards/emv/about
 51. https://www.fsstech.com/back-office-services/eft-switching-service
+52. https://www.rupay.co.in/
+53. https://en.wikipedia.org/wiki/Unified_Payments_Interface
+54. https://en.wikipedia.org/wiki/Cashier_as_a_service
+55. https://en.wikipedia.org/wiki/Real-time_gross_settlement#cite_note-39
+56. https://switchio.com/payment-switch?utm_term=&utm_campaign=Dynamic+SRCH+ADS&utm_source=adwords&utm_medium=ppc&hsa_acc=6570855237&hsa_cam=13130265286&hsa_grp=127678538132&hsa_ad=522008354851&hsa_src=g&hsa_tgt=dsa-1266784139947&hsa_kw=&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwruSHBhAtEiwA_qCppim8ay0WV6u2gjW9beNbm3uU8hhRaq0nVnCvt4j-i8-HShdpUNHUlxoCryMQAvD_BwE
+57. https://www.corporatetobank.com/what-is-corporate-to-bank-c2b-connectivity/
+58. https://en.wikipedia.org/wiki/List_of_online_payment_service_providers
+59. https://en.wikipedia.org/wiki/Pix_(electronic_payment_system)
