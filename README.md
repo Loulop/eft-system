@@ -64,3 +64,4 @@
 63. https://developers.openpix.com.br/en/pix/#tag/Cob/paths/~1cob~1{txid}/put
 64. https://idratherbewriting.com/learnapidoc/pubapis_openapi_step1_openapi_object.html
 65. https://www.cardknox.com/blogs/instant-money-how-real-time-payments-are-changing-the-payment-processing-industry/
+66. https://www.paymentsjournal.com/real-time-payments-everything-you-need-to-know/
