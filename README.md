@@ -42,3 +42,8 @@
 41. https://labsnews.com/en/news/business/rappi-credit-card-colombia/
 42. https://begateway.com/how-to-start-a-payment-processing-company-1/
 43. https://www.federalreserve.gov/boarddocs/caletters/2008/0807/08-07_attachment.pdf
+44. https://labsnews.com/en/articles/business/nubank-brazil-largest-fintech-latin-america/
+45. https://sistemayar.com/mastercard-and-verizon-announce-partnership-for-5g-contactless-payments/
+46. https://squareup.com/us/en/townsquare/what-is-a-contactless-payment
+47. https://squareup.com/us/en/townsquare/emv
+48. https://labsnews.com/en/articles/business/nubank-brazil-largest-fintech-latin-america/
